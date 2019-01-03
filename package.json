@@ -2,7 +2,11 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://scramblelock.github.io/robofriends-redux-pwa",
+=======
+  "homepage": "htttps//Scramblelock.github.io/",
+>>>>>>> 3db63cd4556d26b5451f3e5c4501ca1d9716443c
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.2.0",

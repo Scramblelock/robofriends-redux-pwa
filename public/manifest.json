@@ -6,6 +6,7 @@
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
+<<<<<<< HEAD
     },
     {
       "src": "/android-chrome-192x192.png",
@@ -16,6 +17,8 @@
       "src": "/android-chrome-192x192.png",
       "sizes": "512x512",
       "type": "image/png"
+=======
+>>>>>>> 3db63cd4556d26b5451f3e5c4501ca1d9716443c
     }
   ],
   "start_url": "./index.html",
