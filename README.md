@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for udemy course - React + Redux
+Tutorial for udemy course - React + Redux + PWA optimization
 
 To run the project:
 
