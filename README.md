@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for udemy course - React + Redux + PWA optimization
+App built with React that searches for Robot names (JSONPlaceholder) and images (Robohash). It was upgraded using Redux and was recreated as a Progressive Web Application to work offline. 
 
 To run the project:
 
